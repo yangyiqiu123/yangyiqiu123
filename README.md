@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangyiqiu123)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangyiqiu123&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangyiqiu123&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yangyiqiu123)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
